@@ -1,0 +1,10 @@
+ text
+           Weather report: Austin, United States of America
+
+ [38;5;226m   \  /[0m       Partly cloudy
+ [38;5;226m _ /""[38;5;250m.-.    [0m [38;5;226m71[0m-[38;5;220m77[0m °F[0m       
+ [38;5;226m   \_[38;5;250m(   ).  [0m [1m↓[0m [38;5;046m0[0m mph[0m        
+ [38;5;226m   /[38;5;250m(___(__) [0m 9 mi[0m           
+               0.0 in[0m         
+            This is loop number 1.
+            The local system date and time is Tue May 15 08:29:45 CDT 2018.
